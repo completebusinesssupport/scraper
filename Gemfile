@@ -12,6 +12,7 @@ gem 'sass-rails', '~> 5.0'
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 gem 'simple_form'
 gem 'devise'
+gem 'validate_url'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
